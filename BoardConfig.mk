@@ -111,9 +111,6 @@ PLATFORM_VERSION := 16.1.0
 # Encryption
 BOARD_USES_METADATA_PARTITION := true
 
-# Workaround
-BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
-
 # TWRP Configuration
 TW_DEVICE_VERSION := Rissu_A03-v1
 TW_THEME := portrait_hdpi
